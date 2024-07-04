@@ -1,0 +1,11 @@
+/* hearder.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Roboto:wght@400;500&display=swap');
+
+.font-cartoon {
+  font-family: 'Fredericka the Great', cursive;
+}
+
+.font-roboto {
+  font-family: 'Roboto', sans-serif;
+}
